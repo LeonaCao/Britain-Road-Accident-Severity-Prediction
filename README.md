@@ -1,4 +1,4 @@
-# Road-Accident-Severity-Prediction
+# Britain-Road-Accident-Severity-Prediction
 
 This is a group project I completed with another three classmates during my Data Science course. In this project we were analyzing UK road accidents data from 2005 to 2017 (source: https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles).
 
